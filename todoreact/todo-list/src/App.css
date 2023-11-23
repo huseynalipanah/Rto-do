@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+
+}
+input{
+  padding: 4px;
+  margin-right: 8px;
+}
+ul{
+  list-style-type: none;
+}
+li{
+ margin: 12px 0;
+}
+.delete{
+  font-size: 16px;
+  margin-left: 8px;
+  border: none;
+  color: red;
+  background-color: white;
+  font-weight: bold;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
